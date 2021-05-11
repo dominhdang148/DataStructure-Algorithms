@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\maxsys\desktop\baitap\ctdl&gt\search\search\thuvien.h(6): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Search.vcxproj -> C:\Users\Maxsys\Desktop\BaiTap\CTDL&GT\Search\Debug\Search.exe
+  Search.vcxproj -> C:\Users\Maxsys\Desktop\BaiTap\CTDL&GT\Search\Debug\Search.pdb (Full PDB)

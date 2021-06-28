@@ -1,0 +1,4 @@
+﻿  program.cpp
+c:\users\maxsys\desktop\baitap\ctdl&gt\2011363_dominhdang\2011363_dominhdang\2011363_thuvien.h(22): warning C4715: 'ReadFile': not all control paths return a value
+  2011363_DoMinhDang.vcxproj -> C:\Users\Maxsys\Desktop\BaiTap\CTDL&GT\2011363_DoMinhDang\Debug\2011363_DoMinhDang.exe
+  2011363_DoMinhDang.vcxproj -> C:\Users\Maxsys\Desktop\BaiTap\CTDL&GT\2011363_DoMinhDang\Debug\2011363_DoMinhDang.pdb (Full PDB)

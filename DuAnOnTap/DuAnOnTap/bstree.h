@@ -124,7 +124,7 @@ void Xuat1HocVien(KeyType x)
 	cout << setw(20) << left << x.tenHV;
 	cout << setw(13) << left << x.lop;
 	cout << setw(15) << left << x.namSinh;
-	cout << setw(13) << left << setiosflags(ios::fixed) << setprecision(0) << x.dtb;
+	cout << setw(13) << left << setiosflags(ios::fixed) << setprecision(2) << x.dtb;
 	cout << setw(10) << left << x.tichLuy << endl;
 }
 void PreOrder(BSTree root)
